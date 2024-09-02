@@ -27,10 +27,6 @@ Himalayas-Buddhism/
 ├── about.html          # About the Himalayas
 ├── monasteries.html    # Information about monasteries
 ├── buddhism.html       # Information about Buddhism in the Himalayas
-├── css/
-│   └── styles.css      # Custom CSS (optional)
-├── images/
-│   └── (image files)   # Images used in the website
 └── README.md           # Project README file
 ```
 
@@ -38,7 +34,7 @@ Himalayas-Buddhism/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Himalayas-Buddhism.git
+   git clone https://github.com/Gabriel-Dalton/himalayas-buddhism.git
    ```
    
 2. **Navigate to the project directory**:
@@ -61,8 +57,3 @@ This project is open-source and available under the MIT License.
 
 Thank you for visiting the **Himalayas and Buddhism** project!
 ```
-1. Replace `yourusername` with your actual GitHub username.
-2. Update the contact information with your details.
-3. If you decide to add a license, replace the license section with the appropriate link to your license file.
-
-This `README.md` file provides an overview of the project, guides users on how to run it locally, and includes deployment instructions for GitHub Pages.
